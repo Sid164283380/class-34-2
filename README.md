@@ -1,2 +1,1 @@
-# class-34-2
-bunny game 2.0 completed finally
+# C34_template_code
